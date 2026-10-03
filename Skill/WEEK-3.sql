@@ -1,4 +1,4 @@
-USE madhulika_2520090056;
+USE hruthika_2520090002;
 CREATE TABLE class (
     id INT,
     name VARCHAR(30)
